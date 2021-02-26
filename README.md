@@ -1,4 +1,3 @@
-# miva-snippets-for-nova
 # Miva Snippets for Nova
 
 This extension adds rich language support for Miva Merchant to Nova by Panic Inc. including:
