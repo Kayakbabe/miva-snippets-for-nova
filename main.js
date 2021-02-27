@@ -6,7 +6,7 @@ class CompletionProvider {
 	provideCompletionItems(editor, context) {
 		let snippets = [];
 		
-		for (let snippet in htmlSnippets) {
+		for (let snippet in mivaSnippets) {
 			let item = new CompletionItem(mivaSnippets[snippet].prefix, CompletionItemKind.File);
             console.log(mivaSnippets[snippet].description);
 	
