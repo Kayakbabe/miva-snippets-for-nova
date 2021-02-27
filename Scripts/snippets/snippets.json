@@ -1,0 +1,16 @@
+{
+  "Read_Basket": {
+    "prefix": "read_bas",
+    "body": [
+      "<mvt:item name=\"customfields\" param=\"Read_Basket( '${0:basket_field_code}', ${1:g.variable} )\" />"
+    ],
+    "description": "Read Basket field code into variable"
+  },
+  "Write_Basket": {
+    "prefix": "write_bas",
+    "body": [
+      "<mvt:item name=\"customfields\" param=\"Write_Basket( '${0:basket_field_code}', ${1:value} )\" />"
+    ],
+    "description": "Read Basket field code into variable"
+  }
+}

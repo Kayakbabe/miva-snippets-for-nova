@@ -46,7 +46,7 @@
     [Github](https://github.com/kayakbabe/miva-snippets-for-nova)",
     "name": "Miva Snippets",
     "vendor": "kayakbabe",
-    "description": "Miva Snippets.",
+    "description": "This extension adds rich language support for Miva Merchant",
     "version": "0.1.0",
     "categories": ["Completions"],
     "bugs": "https://github.com/kayakbabe/miva-snippets-for-nova/issues",
